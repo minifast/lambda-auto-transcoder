@@ -1,0 +1,3 @@
+dependencies:
+  post:
+    - "npm i -g jasmine-node"
