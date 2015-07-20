@@ -1,0 +1,14 @@
+{
+  "name": "autotune",
+  "version": "1.0.0",
+  "description": "Automatically handle s3 video uploads in Lambda",
+  "main": "s3_create_object.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "author": "Ministry of Velocity",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "~> 2.0"
+  }
+}
